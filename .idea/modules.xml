@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KKClient/KKClient.iml" filepath="$PROJECT_DIR$/KKClient/KKClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KKServer/KKServer.iml" filepath="$PROJECT_DIR$/KKServer/KKServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_work.iml" filepath="$PROJECT_DIR$/.idea/java_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testpro01/testpro01.iml" filepath="$PROJECT_DIR$/testpro01/testpro01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throw/throw.iml" filepath="$PROJECT_DIR$/throw/throw.iml" />
+    </modules>
+  </component>
+</project>
